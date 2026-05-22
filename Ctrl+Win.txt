@@ -1,0 +1,24 @@
+Ctrl + Win
+
+
+Team Members:
+
+- Y B Siddharth (BC2025116)
+- Abhinav P (IC2025021)
+
+
+Individual Contributions :
+
+- main.c - Abhinav P
+
+- game.c - Joint Effort
+
+- storage.c - Y B Siddharth
+
+- Debugging - Y B Siddharth
+
+- Readme file and Textfile - Abhinav P
+
+- Minesweeper.h - Changes made simultaneously with changes made in the code as we proceeded
+
+- Makefile - Joint Effort
